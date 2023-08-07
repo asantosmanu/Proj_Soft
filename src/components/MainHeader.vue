@@ -1,7 +1,7 @@
 <template>
     <div>
         <div>
-            LOGO
+            LOGO oiiii
         </div>
         <ul class="nav navbar-nav">
            <li>ITEM 1</li>  
